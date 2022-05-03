@@ -1,0 +1,11 @@
+Países(amostras), Licor, Vinho, Cerveja, Expectativa de Vida, Taxa de doença do coração
+França,2.5,63.5,40.1,78.0,61.1
+Itália,0.9,58.0,25.1,78.0,94.1
+Suíça,1.7,46.0,65.0,78.0,106.4
+Áustria,1.2,15.7,102.1,78.0,173
+Reino Unido, 1.5,12.2,100.0,77.0,199.7
+EUA,2,8.9,87.8,76.0,176.0
+Rússsia,3.8,2.7,17.1,69.0,373.6
+República Tcheca,1.0,1.7,140.0,73.0,283.7
+Japão,2.1,1.0,55.0,79.0,34.7
+México,0.8,0.2,50.4,73.0,36.4
